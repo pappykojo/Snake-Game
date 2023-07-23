@@ -1,4 +1,3 @@
-Sure! Here's the README file for the text-based Snake game with 5 levels of difficulty:
 
 # Text-Based Snake Game with 5 Levels of Difficulty
 
