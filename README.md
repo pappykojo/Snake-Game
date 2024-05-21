@@ -47,12 +47,6 @@ This is a simple text-based Snake game implemented in Python. The game allows th
 
 - Python 3.x
 
-## Note
-
-This is a basic text-based implementation of the Snake game. You can further enhance it by adding graphical interfaces, sound effects, or additional features.
-
-Enjoy the game and have fun!
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
